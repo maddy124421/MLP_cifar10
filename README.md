@@ -1,2 +1,2 @@
 # MLP_cifar10
-Cifar-10 MLP 
+Machine Learning Programming with Cifar-10 Dataset.
